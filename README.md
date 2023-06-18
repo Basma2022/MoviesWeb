@@ -1,4 +1,4 @@
-Movie Web Application
+<h1>Movie Web Application</h1>
 
 Description:
 This movie web application is a mini-project built using React.js, Redux, and API integration. It allows users to browse and explore a collection of movies. The application consists of two main pages: the Home page and the Movie Details page.
