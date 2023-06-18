@@ -1,5 +1,6 @@
 <h1>Movie Web Application</h1>
 
+
 <h3>
 Description:
 
@@ -11,6 +12,7 @@ Features:
 
 -Movie Details: When a user clicks on a movie card, they are taken to the Movie Details page, which provides in-depth information about the selected movie. This includes details like the movie title, release date,rating , genre, and a brief summary.
 
+
 Technologies Used:
 -React.js: The application is built using the React.js library, enabling the creation of reusable components and providing a smooth user interface.
 
@@ -18,12 +20,16 @@ Technologies Used:
 
 -API Integration: The application integrates with an API to fetch movie data dynamically, allowing users to access the latest information and updates.
 
+
+
 Usage:
 
 -Clone the repository to your local machine.
 -Install the necessary dependencies using npm or yarn.
 -Run the application using the command npm start or yarn start.
 -Access the application through your web browser at the specified local host address.
+
+
 
 Contributing:
 Contributions to the project are welcome. If you encounter any issues or have suggestions for improvement, please feel free to create a new issue or submit a pull request.
