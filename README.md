@@ -1,12 +1,15 @@
 <h1>Movie Web Application</h1>
 
+<h3>
 Description:
+
 This movie web application is a mini-project built using React.js, Redux, and API integration. It allows users to browse and explore a collection of movies. The application consists of two main pages: the Home page and the Movie Details page.
 
 Features:
--Home Page: The Home page displays a collection of movie cards, showcasing key information such as the movie title, poster image, and rating. Users can easily -scroll through the movie cards and get a quick overview of each movie.
 
-Movie Details: When a user clicks on a movie card, they are taken to the Movie Details page, which provides in-depth information about the selected movie. This includes details like the movie title, release date, duration, genre, and a brief summary. Users can also find additional information such as the cast and crew, ratings, and reviews.
+-Home Page: The Home page displays a collection of movie cards, showcasing key information such as the movie title, poster image, and genre. Users can easily scroll through the movie cards and get a quick overview of each movie.
+
+-Movie Details: When a user clicks on a movie card, they are taken to the Movie Details page, which provides in-depth information about the selected movie. This includes details like the movie title, release date,rating , genre, and a brief summary.
 
 Technologies Used:
 -React.js: The application is built using the React.js library, enabling the creation of reusable components and providing a smooth user interface.
@@ -24,6 +27,6 @@ Usage:
 
 Contributing:
 Contributions to the project are welcome. If you encounter any issues or have suggestions for improvement, please feel free to create a new issue or submit a pull request.
-
+</h3>
 
 
