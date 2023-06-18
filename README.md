@@ -35,7 +35,10 @@ Contributing:
 Contributions to the project are welcome. If you encounter any issues or have suggestions for improvement, please feel free to create a new issue or submit a pull request.
 </h3>
 
-<h2>Trailer</h2>
+![image](https://github.com/Basma2022/MoviesWeb/assets/109489506/4737cacb-70ad-4947-ab15-fc8845606761)
+
+![image](https://github.com/Basma2022/MoviesWeb/assets/109489506/dc0eadcd-bf0b-4e74-a5af-0e72c7c342c1)
+
 
 
 
